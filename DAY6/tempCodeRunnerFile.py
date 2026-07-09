@@ -1,0 +1,1 @@
+arks1 = float(input("Enter Maths marks:"))
